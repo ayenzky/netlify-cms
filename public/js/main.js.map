@@ -1,1 +1,1 @@
-{"version":3,"file":"main.js","sourceRoot":"","sources":["d:\\xampp\\htdocs\\roots-cms-example\\assets\\js\\main.coffee"],"names":[],"mappings":"AAAA;EAAA,OAAO,CAAC,GAAR,CAAY,cAAZ;AAAA","sourcesContent":["console.log 'hello there!'\r\n\r\n"]}
+{"version":3,"file":"main.js","sourceRoot":"","sources":["d:\\xampp\\htdocs\\cms-netlify\\assets\\js\\main.coffee"],"names":[],"mappings":"AAAA;EAAA,OAAO,CAAC,GAAR,CAAY,cAAZ;AAAA","sourcesContent":["console.log 'hello there!'\r\n\r\n"]}
